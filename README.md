@@ -1,2 +1,2 @@
 # Robot_Recognition
-Classification Detection and Recognition
+Consists of three parts, classification, detection and recognition
